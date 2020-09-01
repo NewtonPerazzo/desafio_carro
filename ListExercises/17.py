@@ -1,10 +1,5 @@
 info_atleta = []
-lista_requisitos = ["Nome do atleta: ",
-                    "Primeiro Salto: ",
-                    "Segundo Salto: ",
-                    "Terceiro Salto: ",
-                    "Quarto Salto: ",
-                    "Quinto Salto: "]
+
 while True:
     name = str(input("Nome: "))
     if name == '':
